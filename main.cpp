@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Lab 1 — Your Name
+// Lab 1 — Herberth Sanchez-Gomez
 // CIS 5 Week 01
 
 int main() {

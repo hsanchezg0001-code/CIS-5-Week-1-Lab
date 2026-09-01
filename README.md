@@ -10,7 +10,7 @@
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** _add your link here_
+**Your demo:**[ _add your link here_](https://youtu.be/u7I06CVfOKA)
 
 
 ## Scenario
